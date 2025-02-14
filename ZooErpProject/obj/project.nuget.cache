@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ULk8NXlHkbE=",
+  "success": true,
+  "projectFilePath": "/Users/alvoro/RiderProjects/ZooErpProject/ZooErpProject/ZooErpProject.csproj",
+  "expectedPackageFiles": [
+    "/Users/alvoro/.nuget/packages/microsoft.extensions.dependencyinjection/9.0.2/microsoft.extensions.dependencyinjection.9.0.2.nupkg.sha512",
+    "/Users/alvoro/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.2/microsoft.extensions.dependencyinjection.abstractions.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZooErpProject", "ZooErpProject\ZooErpProject.csproj", "{CA38389C-1CC5-4B20-B3DF-D41E7E4031E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{2CE777F5-E013-4788-9DEE-4959F49FCE59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA38389C-1CC5-4B20-B3DF-D41E7E4031E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA38389C-1CC5-4B20-B3DF-D41E7E4031E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA38389C-1CC5-4B20-B3DF-D41E7E4031E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA38389C-1CC5-4B20-B3DF-D41E7E4031E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CE777F5-E013-4788-9DEE-4959F49FCE59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CE777F5-E013-4788-9DEE-4959F49FCE59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CE777F5-E013-4788-9DEE-4959F49FCE59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CE777F5-E013-4788-9DEE-4959F49FCE59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
